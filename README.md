@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**Ahmed-Abdelrahman-dev/Ahmed-Abdelrahman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at Concordia University in Montreal and a member of the Co-op Program.
 
-Here are some ideas to get you started:
+I am passionate about data analytics, database systems, machine learning, and artificial intelligence. Through my studies and personal projects, I enjoy transforming data into meaningful insights and building data-driven solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently seeking Winter and Summer internship opportunities in Data Science, Data Analytics, Business Analytics, Data Engineering, and related fields.
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Applied Data Science
+- Data Visualization
+- Database Systems
+
+## Technical Skills
+
+- SQL
+- MySQL
+- Python
+- Git & GitHub
+- Database Design
+- Data Analysis
+- Data Visualization
+
+## Featured Projects
+
+### 🗄️ HSO SQL Project
+Designed and implemented a relational database system for an animal shelter organization using MySQL. The project includes normalized schema design, referential integrity constraints, views, triggers, sample data, and analytical SQL queries to support real-world shelter operations.
+
+**Key Skills:**
+- SQL
+- MySQL
+- Database Design
+- ER Modeling
+- Views
+- Triggers
+- Data Integrity
+
+---
+
+### 📊 Sales Performance Dashboard (Excel)
+Built an end-to-end Business Intelligence solution using Microsoft Excel, Power Query, Power Pivot, and DAX. Cleaned and modeled transactional sales data, created KPI measures, and developed an interactive executive dashboard for sales performance analysis. 【1-ae58c7】
+
+**Key Skills:**
+- Power Query
+- Power Pivot
+- DAX
+- Data Modeling
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+
+---
+
+### 🚲 Bike Sales Dashboard (Excel)
+Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cleaned and transformed raw data, built interactive dashboards, and identified trends influencing bike purchase decisions through Pivot Tables, Pivot Charts, and slicers. 【2-4dde41】
+
+**Key Skills:**
+- Excel
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Exploratory Data Analysis
+- Business Insights
+
+**Highlights:**
+- Analyzed over 1,000 customer records.
+- Identified key demographic and behavioral factors affecting bike purchases.
+- Developed actionable business recommendations based on customer segments and purchasing trends. 【2-4dde41】
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ahmed-abdelrahman-dev
+`
