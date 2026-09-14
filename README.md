@@ -41,7 +41,7 @@ Designed and implemented a relational database system for an animal shelter orga
 ---
 
 ### 📊 Sales Performance Dashboard (Excel)
-Built an end-to-end Business Intelligence solution using Microsoft Excel, Power Query, Power Pivot, and DAX. Cleaned and modeled transactional sales data, created KPI measures, and developed an interactive executive dashboard for sales performance analysis. 【1-ae58c7】
+Built an end-to-end Business Intelligence solution using Microsoft Excel, Power Query, Power Pivot, and DAX. Cleaned and modeled transactional sales data, created KPI measures, and developed an interactive executive dashboard for sales performance analysis.
 
 **Key Skills:**
 - Power Query
@@ -55,7 +55,7 @@ Built an end-to-end Business Intelligence solution using Microsoft Excel, Power 
 ---
 
 ### 🚲 Bike Sales Dashboard (Excel)
-Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cleaned and transformed raw data, built interactive dashboards, and identified trends influencing bike purchase decisions through Pivot Tables, Pivot Charts, and slicers. 【2-4dde41】
+Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cleaned and transformed raw data, built interactive dashboards, and identified trends influencing bike purchase decisions through Pivot Tables, Pivot Charts, and slicers.
 
 **Key Skills:**
 - Excel
@@ -69,7 +69,7 @@ Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cl
 **Highlights:**
 - Analyzed over 1,000 customer records.
 - Identified key demographic and behavioral factors affecting bike purchases.
-- Developed actionable business recommendations based on customer segments and purchasing trends. 【2-4dde41】
+- Developed actionable business recommendations based on customer segments and purchasing trends.
 
 ## Connect With Me
 
