@@ -28,7 +28,7 @@ I am passionate about data analytics, database systems, machine learning, and ar
 
 ## Featured Projects
 
-### 🗄️ HSO SQL Project
+### 🗄️ HSO SQL Project (SQL / MYSQL)
 Designed and implemented a relational database system for an animal shelter organization using MySQL. The project includes normalized schema design, referential integrity constraints, views, triggers, sample data, and analytical SQL queries to support real-world shelter operations.
 
 **Key Skills:**
