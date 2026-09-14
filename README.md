@@ -16,6 +16,8 @@ I am passionate about data analytics, database systems, machine learning, and ar
 
 ## Technical Skills
 
+- Excel
+- Power BI
 - SQL
 - MySQL
 - Python
@@ -37,6 +39,21 @@ Designed and implemented a relational database system for an animal shelter orga
 - Views
 - Triggers
 - Data Integrity
+
+---
+
+### 🏥 Hospital Patients Analytics Dashboard (Power BI)
+
+Developed an interactive Power BI dashboard using a 2,000-record healthcare dataset to analyze admissions, patient demographics, hospitalization costs, geographic trends, and departmental performance. Implemented forecasting, geospatial analysis, KPI tracking, and Key Influencers visuals to uncover insights across Canadian healthcare data.
+
+**Skills:** 
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+- Forecasting
+- Healthcare Analytics
 
 ---
 
