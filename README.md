@@ -42,7 +42,7 @@ Designed and implemented a relational database system for an animal shelter orga
 
 ---
 
-### 🏥 Hospital Patients Analytics Dashboard (Power BI)
+### 🏥 [Hospital Patients Analytics Dashboard (Power BI)](https://github.com/Ahmed-Abdelrahman-dev/Hospital-Patients-Analytics-Dashboard)
 
 Developed an interactive Power BI dashboard using a 2,000-record healthcare dataset to analyze admissions, patient demographics, hospitalization costs, geographic trends, and departmental performance. Implemented forecasting, geospatial analysis, KPI tracking, and Key Influencers visuals to uncover insights across Canadian healthcare data.
 
@@ -57,7 +57,7 @@ Developed an interactive Power BI dashboard using a 2,000-record healthcare data
 
 ---
 
-### 📊 Sales Performance Dashboard (Excel)
+### 📊 [Sales Performance Dashboard (Excel)](https://github.com/Ahmed-Abdelrahman-dev/sales-dashboard-excel-project)
 Built an end-to-end Business Intelligence solution using Microsoft Excel, Power Query, Power Pivot, and DAX. Cleaned and modeled transactional sales data, created KPI measures, and developed an interactive executive dashboard for sales performance analysis.
 
 **Key Skills:**
@@ -71,7 +71,7 @@ Built an end-to-end Business Intelligence solution using Microsoft Excel, Power 
 
 ---
 
-### 🚲 Bike Sales Dashboard (Excel)
+### 🚲 [Bike Sales Dashboard (Excel)](https://github.com/Ahmed-Abdelrahman-dev/bike_sales_dashboard_excel)
 Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cleaned and transformed raw data, built interactive dashboards, and identified trends influencing bike purchase decisions through Pivot Tables, Pivot Charts, and slicers.
 
 **Key Skills:**
@@ -90,5 +90,5 @@ Analyzed customer demographics and purchasing behavior using Microsoft Excel. Cl
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ahmed-abdelrahman-dev
+- [LinkedIn](https://www.linkedin.com/in/ahmed-abdelrahman-dev)
 `
